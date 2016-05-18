@@ -1,0 +1,5 @@
+Schema files for BigQuery imports
+
+## Weather
+
+oid:STRING,timestamp:TIMESTAMP,status:STRING,unit_name:STRING,unit_serial_number:STRING,weather_sensor_name:STRING,weather_sensor_serial_number:STRING,weather_sensor_firmware_version:STRING,ambient_temperature:FLOAT,gust_safe:STRING,internal_voltage:FLOAT,ldr_resistance:FLOAT,pwm_value:FLOAT,rain_frequency:FLOAT,rain_safe:STRING,rain_sensor_temperature:FLOAT,safe:BOOLEAN,sky_safe:STRING,sky_temperature:FLOAT,switch:STRING,switch_status:STRING,wind_safe:STRING,wind_speed:FLOAT,error_1:STRING,error_2:STRING,error_3:STRING,error_4:STRING
